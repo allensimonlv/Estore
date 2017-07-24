@@ -1,0 +1,12 @@
+
+
+/*学校选择控件*/
+.divSch{
+	background-color: white;
+	border-style: solid;
+	position: absolute;
+	top: 430;
+	left: 400;
+	border-color: #D8DFEA;
+	border-width: 12px;
+}
